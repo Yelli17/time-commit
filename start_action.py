@@ -6,7 +6,7 @@ import os
 # POST /repos/:GITHUB_USERNMAE/:GITHUB_REPO/dispatches
 # Replace with your info...
 
-GITHUB_USERNMAE = "BlueskyClouds"
+GITHUB_USERNMAE = "Yelli17"
 GITHUB_REPO = "time-commit"
 
 AUTH_TOKEN = os.environ["GITHUB_REPO_TOKEN"]
